@@ -1,4 +1,5 @@
 # Guess the Word Game
+# Testing of Push to GitHub
 
 This project is a simple Java word-guessing game where the player tries to reveal a hidden fruit name by guessing letters.
 
