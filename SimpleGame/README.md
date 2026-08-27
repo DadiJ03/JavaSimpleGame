@@ -38,7 +38,7 @@ The game includes words such as:
 2. Go to the project folder:
 
    ```bash
-   cd "C:\Users\jorijuela\OneDrive - DXC Production\Desktop\JavaGame\SimpleGame"
+   cd "C:\Users\jorijuela\OneDrive - DXC Production\Desktop\JavaSimpleGame\SimpleGame"
    ```
 
 3. Compile the Java file:
